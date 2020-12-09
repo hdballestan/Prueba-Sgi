@@ -13,6 +13,8 @@ else:
                 print(i)
             if(i%j ==0 ):
                 tieneDivisores = True
+
+print("fin de programa")
             
 
 
